@@ -2,7 +2,7 @@
 
 # ----> Describe your findings in README : <-----
 
-## -->  Iterators : Iterators are the omnipresent spirits of Python. They are everywhere and you must have come across them in some program or another.
+## -->  Iterators : Iterators are the omnipresent spirits of Python.
 ## --> Iterators are objects that allow you to traverse through all the elements of a collection, regardless of its specific implementation.
 
 # A decorator
